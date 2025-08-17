@@ -1,2 +1,2 @@
-# Alura-L-gica-de-programaci-n-explorar-funciones-y-listas-
+# Alura Logica de programacion explorar funciones y listas
 Segundo curso introductorio a la programación, aborda conceptos sobre funciones y arreglos.
